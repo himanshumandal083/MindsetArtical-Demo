@@ -1,4 +1,4 @@
-# apnacollege-Demo
+# MindsetArtical-Demo
 This is my first Git Repository
 <BR>
 Author- Himanshu mandal
